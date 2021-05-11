@@ -1,0 +1,6 @@
+#212529---darkgrey
+#57868C---primary
+#F1FDE9---heaven
+#fff-----pure
+#DDDEE2----ternary
+#E3E3E3---secondary
